@@ -1,5 +1,5 @@
 # PNN
-Probabilistic Neural Network for iris leaf species classification written on JavaScript.
+Probabilistic Neural Network (PNN) for iris leaf species classification written on JavaScript.
 
 I have not fully understand how PNN works hence I'm not sure if it's working correctly. Sigma is harcoded with value `0.5` and there's still few things left to do (I have not find any reference on how to determine optimal sigma value beside guessing and testing between scoped interval).
 
